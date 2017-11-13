@@ -1,32 +1,30 @@
-# mandelbrot-javafx-clj
+# Show MandelBrot Fractal with Color
 
-FIXME: description
+## javafx-clojure-app
+This program is for linux , Mac , And Windows
 
 ## Installation
 
-Download from http://example.com/FIXME.
+    $ git clone https://github.com/elect000/javafx-clojure-app/ jca
+    $ cd jca
+    
+  1. from lein         
+          
+         $ lein run
+  2. from jar
+  
+         $ lein uberjar
+         $ cd target/uberjar
+         $ java -jar *standalone.jar 
+
 
 ## Usage
-
-FIXME: explanation
-
-    $ java -jar mandelbrot-javafx-clj-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
+ 
+ See Window
 
 ### Bugs
 
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+ Too slow...
 
 ## License
 
